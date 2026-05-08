@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Portólio')
+st.title('Portfólio')
 st.caption('Sejam bem vindos(as) a minha exposição dos meus trabalhos.')
 
 # --------------------------------------------------------------------------
